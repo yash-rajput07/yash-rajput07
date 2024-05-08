@@ -38,3 +38,4 @@ eye3=eyediagram(ysine,2*Tau,Tau,Tau/2);
 title('HALF SINE Eye-Diagram');
 eye4=eyediagram(yrcos,2*Tau,Tau);
 title('Raised COSINE Eye-Diagram');
+[MCOE - PCS - Expt Programs - Eye-Diagram- SNR - PCM and DM- Sampling theorem (1).pdf](https://github.com/yash-rajput07/yash-rajput07/files/15244138/MCOE.-.PCS.-.Expt.Programs.-.Eye-Diagram-.SNR.-.PCM.and.DM-.Sampling.theorem.1.pdf)
